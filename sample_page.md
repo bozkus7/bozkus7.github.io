@@ -1,24 +1,25 @@
-## This can be your internal website page / project page
+## what's the story?
 
-**Project description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+**Plot:** 
+Detail – Oriented Analyst working both individually and collaboratively across various teams in the Back office, Middle office, and operations, to achieve project goals in the OTC market with a passion for the financial market. 
+Focuses on Data-driven work and can work efficiently on different computer applications. 
+Desire to effectively work with diverse cultures in the global team.
 
-### 1. Suggest hypotheses about the causes of observed phenomena
+### Trade Expense Analyst         Location - Nomura Service India
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+Improved Reconciliation methodology for invoice processing results into time savings
+Daily Validation of Accruals by restructuring the correct source of volume data and rate cards which results in savings for our Department.
+Reduced submission timing of Month-End for approval from 3 business days to 2 business days
+Expense Variance Analysis and Preparing MIS Reports for senior management reporting daily
+Proven team player, taking ownership for own role.
 
-```javascript
-if (isAwesome){
-  return true
-}
-```
 
-### 2. Assess assumptions on which statistical inference will be based
+### Market Research Intern        Location - FOODHERO
 
-```javascript
-if (isAwesome){
-  return true
-}
-```
+Performed market research activities to identify a target market
+Assisted in client onboarding via online and offline channels.
+Provide solutions to client's queries efficiently and in a timely manner.
+
 
 ### 3. Support the selection of appropriate statistical tools and techniques
 
