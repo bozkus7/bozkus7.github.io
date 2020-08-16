@@ -31,10 +31,10 @@ Knowledge of business intelligence tools like Power BI, Tableau.
 
 ### Skills developed during Work
 
-polished business communication skills.
-writing business E-mails
-Multi-tasking
-Reconcilation skills
+* polished business communication skills.
+* writing business E-mails
+* Multi-tasking
+* Reconcilation skills
 
 ### Certifications
 * Introduction To Matlab   - Coursera
