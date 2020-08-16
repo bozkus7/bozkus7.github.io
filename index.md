@@ -1,10 +1,10 @@
-## About Me
+## Thank you for your time
 
 ---
 
 ### Objective
 
-[Project 1 Title](/sample_page)
+[What's My Story](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 
