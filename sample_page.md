@@ -17,16 +17,16 @@ Proven team player, taking ownership for own role.
 ### Market Research Intern        Location - FOODHERO         
 
 * Performed market research activities to identify a target market
-*  Assisted in client onboarding via online and offline channels.
+* Assisted in client onboarding via online and offline channels.
 * Provide solutions to client's queries efficiently and in a timely manner.
 
 
 ### Skills 
 
-Strong control awareness and pay close attention to detail
-Has the ability to break down problems into parts to resolve them
-Knowledge of MS Office and SQL, Python, MATLAB.
-Knowledge of business intelligence tools like Power BI, Tableau.
+1. Strong control awareness and pay close attention to detail
+2. Has the ability to break down problems into parts to resolve them
+3. Knowledge of MS Office and SQL, Python, MATLAB.
+4. Knowledge of business intelligence tools like Power BI, Tableau.
 
 
 ### Skills developed during Work
