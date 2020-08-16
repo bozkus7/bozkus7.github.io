@@ -15,11 +15,10 @@ Proven team player, taking ownership for own role.
 
 
 ### Market Research Intern        Location - FOODHERO         
-<img src="Food.jpg" width=40% >
 
-1. Performed market research activities to identify a target market
-2. Assisted in client onboarding via online and offline channels.
-3. Provide solutions to client's queries efficiently and in a timely manner.
+* Performed market research activities to identify a target market
+*  Assisted in client onboarding via online and offline channels.
+* Provide solutions to client's queries efficiently and in a timely manner.
 
 
 ### Skills 
