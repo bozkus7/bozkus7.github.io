@@ -21,12 +21,33 @@ Assisted in client onboarding via online and offline channels.
 Provide solutions to client's queries efficiently and in a timely manner.
 
 
-### 3. Support the selection of appropriate statistical tools and techniques
+### Skills 
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+Strong control awareness and pay close attention to detail
+Has the ability to break down problems into parts to resolve them
+Knowledge of MS Office and SQL, Python, MATLAB.
+Knowledge of business intelligence tools like Power BI, Tableau.
 
-### 4. Provide a basis for further data collection through surveys or experiments
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+### Skills developed during Work
+
+polished business communication skills.
+writing business E-mails
+Multi-tasking
+Reconcilation skills
+
+### Certifications
+* Introduction To Matlab   - Coursera
+* Certified Program on Investment Banking    - Bombay Stock Exchange Limited
+* Financial Analyst Course 2019     - Udemy
+* Research Analyst Certification Examination    -  National Institute of Securities Markets
+* Investment and Portfolio Management   -  NSE.iT Limited
+
+
+
+
+
+
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
