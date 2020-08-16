@@ -5,7 +5,7 @@
 ### Objective
 
 [What's My Story](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/dummy_emails.jpg?raw=true"/>
 
 
 
