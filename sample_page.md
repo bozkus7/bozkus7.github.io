@@ -35,7 +35,7 @@ Proven team player, taking ownership for own role.
 * Team Synergy
 * writing business E-mails
 * Multi-tasking
-* Reconcilation skills
+* Data Reconciliation
 
 ### Certifications
 * Tableau 2020 A-Z: Hands-On Tableau Training for Data Science
