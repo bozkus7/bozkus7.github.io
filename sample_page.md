@@ -25,18 +25,20 @@ Proven team player, taking ownership for own role.
 
 1. Strong control awareness and pay close attention to detail
 2. Has the ability to break down problems into parts to resolve them
-3. Knowledge of MS Office and SQL, Python, MATLAB.
+3. Knowledge of MS Office and SQL, Python
 4. Knowledge of business intelligence tools like Power BI, Tableau.
 
 
 ### Skills developed during Work
 
 * polished business communication skills.
+* Team Synergy
 * writing business E-mails
 * Multi-tasking
 * Reconcilation skills
 
 ### Certifications
+* Tableau 2020 A-Z: Hands-On Tableau Training for Data Science
 * Introduction To Matlab   - Coursera
 * Certified Program on Investment Banking    - Bombay Stock Exchange Limited
 * Financial Analyst Course 2019     - Udemy
